@@ -1,6 +1,9 @@
-<h2 align="center" style="padding: 0; margin: 0;">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Kerem+AR&center=true&size=25&color=58a6ff&duration=3&pause=1000&vCenter=true&width=700" style="padding:0;margin:0;max-width:100%;"/>
-</h2>
+# <div align="center">🚀 **Kerem AR**</div>
+
+<div align="center">
+  
+[![DevOps Engineer | Cloud | Automation | Kubernetes | CI/CD](https://img.shields.io/badge/DevOps_Engineer_%7C_Cloud_%7C_Automation_%7C_Kubernetes_%7C_CI/CD-0A0A0A?style=for-the-badge&logo=devops&logoColor=white)](https://link.notharshhaa.site)
+
 
 <p align="center" style="margin-bottom: 20px;">
   <a href="https://www.linkedin.com/in/kerem-ar/" target="_blank">
