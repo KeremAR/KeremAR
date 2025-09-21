@@ -15,7 +15,7 @@
 </p>
 
 
-## 💫 About Me
+##  About Me
 DevOps Engineer skilled in cloud-native automation. Proficient in Docker containerization, Kubernetes orchestration on AWS, and Infrastructure as Code with Terraform. Leverages a strong Linux foundation to build end-to-end CI/CD pipelines and declarative GitOps workflows for resilient, multi-environment deployments.
 
 
